@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Hi, I am Twinkle Choudhary
 
-You can use the [editor on GitHub](https://github.com/twinklechoudhary97/twinklechoudhary.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm currently pursuing Masters in Computer Science from University of California, San Diego.
+
+Prior to this, I worked as a Software Engineer at Apple.
+
+My industry experience involves working with complex and large-scale software systems.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -23,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Resume](https://drive.google.com/file/d/1lWqGXcUSqQv33YJsRtTx6JIMNCdw3W4Q/view?usp=sharing) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
