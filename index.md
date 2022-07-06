@@ -13,7 +13,7 @@ My industry experience involves working with complex and large-scale software sy
 
 **Apple Inc**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Jul. 2019–Aug. 2022**
 
-_Software Engineer_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hyderabad, India
+_Software Engineer_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hyderabad, India
 - Designed and implemented applications using microservice architecture, Spring Boot, Spring JPA, and Spring
 Config Server.
 - Created procedures for system monitoring, optimization, and proactive alerts for potential system failure.
@@ -23,7 +23,7 @@ Config Server.
 
 **Apple Inc**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Jan. 2019–Jun. 2019**
 
-_Software Engineering Intern_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hyderabad, India
+_Software Engineering Intern_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hyderabad, India
 - Worked on forecasting application for Apple CRM.
 - Configured service to enable onboarding new route to market.
 - Designed the ARIMA model for forecast sales data.
@@ -41,7 +41,7 @@ _Summer Intern_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 _Masters in Computer Science_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;San Diego, USA
 
-**Birla Institute of Technology And Science, Pilani**&emsp;&emsp;**Aug. 2015–Jun. 2019**
+**Birla Institute of Technology and Science, Pilani**&emsp;&emsp;**Aug. 2015–Jun. 2019**
 
 _Bachelors in Computer Science_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Pilani, India
 
