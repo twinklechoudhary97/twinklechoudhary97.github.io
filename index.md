@@ -6,36 +6,50 @@ Prior to this, I worked as a Software Engineer at Apple.
 
 My industry experience involves working with complex and large-scale software systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+[Resume](https://drive.google.com/file/d/1lWqGXcUSqQv33YJsRtTx6JIMNCdw3W4Q/view?usp=sharing) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience 
 
-```markdown
-Syntax highlighted code block
+**Apple Inc**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Jul. 2019–Aug. 2022**
 
-# Header 1
-## Header 2
-### Header 3
+_Software Engineer_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hyderabad, India
+- Designed and implemented applications using microservice architecture, Spring Boot, Spring JPA, and Spring
+Config Server.
+- Created procedures for system monitoring, optimization, and proactive alerts for potential system failure.
+- Automated major CRM entity creation which eliminated manual intervention and reduced processing time by 98%.
+- Orchestrated efficient large-scale software deployments.
+- Spearheaded the development effort for Q1 FY2022.
 
-- Bulleted
-- List
+**Apple Inc**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Jan. 2019–Jun. 2019**
 
-1. Numbered
-2. List
+_Software Engineering Intern_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hyderabad, India
+- Worked on forecasting application for Apple CRM.
+- Configured service to enable onboarding new route to market.
+- Designed the ARIMA model for forecast sales data.
 
-**Bold** and _Italic_ and `Code` text
+**iLoads**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**May. 2017–Jul. 2017**
 
-[Resume](https://drive.google.com/file/d/1lWqGXcUSqQv33YJsRtTx6JIMNCdw3W4Q/view?usp=sharing) and ![Image](src)
-```
+_Summer Intern_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Bengaluru, India
+- Worked on forecasting application for Apple CRM.
+- Configured service to enable onboarding new route to market.
+- Designed the ARIMA model for forecast sales data.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Education
+**Univeristy of California, San Diego**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Sep. 2022–Dec. 2023**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twinklechoudhary97/twinklechoudhary.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Masters in Computer Science_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;San Diego, USA
 
-### Support or Contact
+**Birla Institute of Technology And Science, Pilani**&emsp;&emsp;**Aug. 2015–Jun. 2019**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_Bachelors in Computer Science_ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Pilani, India
+
+
+### Contact
+
+
+[![linkedin](https://user-images.githubusercontent.com/108804235/177548428-8794f264-381d-43bc-b43b-63fd27a7bc1a.svg)](https://www.linkedin.com/in/twinkle-choudhary-23935773/)       [![instagram](https://user-images.githubusercontent.com/108804235/177548981-2f10483e-b650-4b8c-bab8-aee38cb00116.svg)](https://instagram.com/twinklechoudhary97?igshid=YmMyMTA2M2Y=)      [![facebook](https://user-images.githubusercontent.com/108804235/177549046-17232fa8-f8fc-45f8-9e6e-4f7d43d95980.svg)](https://www.facebook.com/twinkle.choudhary.24)
+
+
+
